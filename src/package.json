@@ -4,7 +4,7 @@
   "dependencies": {
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
-    "react-scripts": "^4.0.0",
+    "react-scripts": "^5.0.0",
     "react-virtuoso": "latest",
     "faker": "5.1.0",
     "lodash": "latest"
